@@ -1,0 +1,28 @@
+name: 8278 Bowman Woods
+favicon: null
+layout_spectrum: 0.22565122554078698
+typography_spectrum: 0.5269202184863389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3666510512121022
+  lightness: 0.6314210204873234
+  saturation: 0.39957241900265217
+  rhythmicContrast: 0.3604225346352905
+purpose: []
