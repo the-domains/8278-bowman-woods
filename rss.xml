@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[8278 Bowman Woods]]></title>
         <description><![CDATA[8278 Bowman Woods]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/8278-bowman-woods/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 17:38:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 20:37:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/8278-bowman-woods/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da47b666-572c-4733-98e1-251ea35e0de9.jpg">]]></description>
-            <link>undefined1e8b4147-b0e8-4a50-97a4-14f11e371264/index.html</link>
+            <link>https://thegrid.ai/8278-bowman-woods/1e8b4147-b0e8-4a50-97a4-14f11e371264/index.html</link>
             <guid isPermaLink="false">1e8b4147-b0e8-4a50-97a4-14f11e371264</guid>
-            <pubDate>Tue, 28 Jun 2016 17:38:10 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2016 20:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a70c35-c32f-445b-9e5d-209a93e0881d.jpg">]]></description>
+            <link>https://thegrid.ai/8278-bowman-woods/fa4c0536-6c4d-4a29-94a9-f2d8da34c0d7/index.html</link>
+            <guid isPermaLink="false">fa4c0536-6c4d-4a29-94a9-f2d8da34c0d7</guid>
+            <pubDate>Tue, 28 Jun 2016 20:35:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
